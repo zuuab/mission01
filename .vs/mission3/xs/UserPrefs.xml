@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{0BA367B0-99EE-4701-8B1F-F0DC0A4A3150}|Default">
+  <MonoDevelop.Ide.ItemProperties.mission3 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="mission3/Controlers/BlahController.cs">
+    <Files>
+      <File FileName="mission3/Views/Blah/Index.cshtml" Line="10" Column="70" />
+      <File FileName="mission3/Views/Shared/_Layout.cshtml" Line="37" Column="1" />
+      <File FileName="mission3/Views/Blah/GradeCalc.cshtml" Line="9" Column="44" />
+      <File FileName="mission3/Controlers/BlahController.cs" Line="18" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="mission3" expanded="True">
+            <Node name="mission3" expanded="True">
+              <Node name="Controlers" expanded="True">
+                <Node name="BlahController.cs" selected="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Blah" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
