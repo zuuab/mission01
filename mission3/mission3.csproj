@@ -10,7 +10,7 @@
   <ItemGroup>
     <Folder Include="wwwroot\" />
     <Folder Include="Views\" />
-    <Folder Include="Views\Blah\" />
+    <Folder Include="Views\pages\" />
     <Folder Include="Controlers\" />
     <Folder Include="Models\" />
     <Folder Include="Views\Shared\" />
