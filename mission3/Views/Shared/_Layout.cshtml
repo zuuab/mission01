@@ -7,8 +7,8 @@
 
     <meta charset="utf-8" />
     <!--links to bootstrap and my css files-->
-    <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
-    <link href="css/mycss.css" rel="stylesheet" />
+    <link href="~/lib/bootstrap/css/bootstrap.css" rel="stylesheet" />
+    <link href="~/css/mycss.css" rel="stylesheet" />
 
     <!-- makes it so that there is an icon for the website-->
     <link rel="apple-touch-icon" sizes="180x180" href="favicon_io/apple-touch-icon.png">
@@ -17,6 +17,10 @@
     <link rel="manifest" href="favicon_io/site.webmanifest">
 
     <title>@ViewData["Title"]</title>
+
+    <!-- including the js that we want for the site -->
+    <script src="~/lib/bootstrap/js/bootstrap.js/bootstrap.min.js"></script>
+    <script src="~/lib/jquery/jquery-3.6.0.min.js"></script>
 </head>
 
 <body>
@@ -26,17 +30,9 @@
         <a asp-controller="Pages" asp-action="GradeCalc">Grade Calculator</a>
     </nav>
 
-    <h2>Zachary Heaton</h2>
     <div>
         @RenderBody()
     </div>
-
-    <footer>This is the footer</footer>
-
-    <!-- including the js that we want for the site -->
-    <script src="lib/bootstrap/js/bootstrap.min.js"></script>
-    <script src="lib/jquery/jquery-3.6.0.min.js"></script>
-
 </body>
 
 </html>

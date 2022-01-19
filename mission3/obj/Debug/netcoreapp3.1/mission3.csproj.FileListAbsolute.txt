@@ -45,11 +45,11 @@
 /Users/zachheaton/Documents/GitHub/mission3/mission3/obj/Debug/netcoreapp3.1/mission3.TagHelpers.input.cache
 /Users/zachheaton/Documents/GitHub/mission3/mission3/obj/Debug/netcoreapp3.1/mission3.TagHelpers.output.cache
 /Users/zachheaton/Documents/GitHub/mission3/mission3/obj/Debug/netcoreapp3.1/mission3.RazorCoreGenerate.cache
-/Users/zachheaton/Documents/GitHub/mission3/mission3/obj/Debug/netcoreapp3.1/Razor/Views/Blah/Index.cshtml.g.cs
 /Users/zachheaton/Documents/GitHub/mission3/mission3/obj/Debug/netcoreapp3.1/mission3.RazorTargetAssemblyInfo.cs
 /Users/zachheaton/Documents/GitHub/mission3/mission3/obj/Debug/netcoreapp3.1/mission3.Views.pdb
 /Users/zachheaton/Documents/GitHub/mission3/mission3/obj/Debug/netcoreapp3.1/mission3.csproj.CopyComplete
 /Users/zachheaton/Documents/GitHub/mission3/mission3/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
-/Users/zachheaton/Documents/GitHub/mission3/mission3/obj/Debug/netcoreapp3.1/Razor/Views/Blah/GradeCalc.cshtml.g.cs
 /Users/zachheaton/Documents/GitHub/mission3/mission3/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
 /Users/zachheaton/Documents/GitHub/mission3/mission3/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/zachheaton/Documents/GitHub/mission3/mission3/obj/Debug/netcoreapp3.1/Razor/Views/pages/GradeCalc.cshtml.g.cs
+/Users/zachheaton/Documents/GitHub/mission3/mission3/obj/Debug/netcoreapp3.1/Razor/Views/pages/Index.cshtml.g.cs

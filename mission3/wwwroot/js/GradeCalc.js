@@ -1,4 +1,5 @@
 ﻿$("#btnSubmit").click(function () {
+    $("form").validate();
     // input from the user
     let assignments = $("#assignments").val();
     let grpProj = $("#grpProj").val();

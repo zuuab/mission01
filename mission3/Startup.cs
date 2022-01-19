@@ -29,12 +29,11 @@ namespace mission3
             app.UseStaticFiles();
 
             app.UseRouting();
-
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller-Blah}/{action-index}/{id?}"
+                    pattern: "{controller=Pages}/{action=Index}/{id?}"
                     );
             });
         }

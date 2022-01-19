@@ -1,10 +1,8 @@
 ﻿<Properties StartupConfiguration="{0BA367B0-99EE-4701-8B1F-F0DC0A4A3150}|Default">
   <MonoDevelop.Ide.ItemProperties.mission3 PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="mission3/Views/Shared/_Layout.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="mission3/Models/GradeCalcModel.cs">
     <Files>
-      <File FileName="mission3/Views/Blah/Index.cshtml" Line="22" Column="6" />
-      <File FileName="mission3/Views/Shared/_Layout.cshtml" Line="30" Column="10" />
-      <File FileName="mission3/Views/Blah/GradeCalc.cshtml" Line="14" Column="35" />
+      <File FileName="mission3/Models/GradeCalcModel.cs" Line="28" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -12,11 +10,16 @@
           <Node name="mission3" expanded="True">
             <Node name="mission3" expanded="True">
               <Node name="Controlers" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="GradeCalcModel.cs" selected="True" />
+              </Node>
               <Node name="Views" expanded="True">
                 <Node name="pages" expanded="True" />
-                <Node name="Shared" expanded="True">
-                  <Node name="_Layout.cshtml" selected="True" />
-                </Node>
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+                <Node name="js" expanded="True" />
               </Node>
             </Node>
           </Node>
